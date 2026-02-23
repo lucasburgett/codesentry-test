@@ -11,3 +11,4 @@ def risky():
         get_data()
     except:
         pass# triggered
+# triggered
